@@ -1,0 +1,2 @@
+timer: signal2.c
+	gcc signal2.c -o signal2
